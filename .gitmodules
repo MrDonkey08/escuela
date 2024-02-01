@@ -1,0 +1,18 @@
+[submodule "1ro"]
+	path = 1ro
+	url = https://github.com/MrDonkey08/1ro
+[submodule "2do"]
+	path = 2do
+	url = https://github.com/MrDonkey08/2do
+[submodule "3ro"]
+	path = 3ro
+	url = https://github.com/MrDonkey08/3ro
+[submodule "4to"]
+	path = 4to
+	url = https://github.com/MrDonkey08/4to
+[submodule "5to"]
+	path = 5to
+	url = https://github.com/MrDonkey08/5to
+[submodule "agenda-icom"]
+	path = agenda-icom
+	url = https://github.com/MrDonkey08/agenda-icom
