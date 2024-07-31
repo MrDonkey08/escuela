@@ -12,7 +12,6 @@ mí en la carrera de Ingeniería de Cómputo
 - [Blog Personal](https://mrdonkey08.github.io/blog/)
 - [GitHub](https://github.com/MrDonkey08)
 - [Libros, formularios y demás](https://drive.google.com/drive/folders/1huHbmYJ6XN8KeUVEv35IfiI8EgLVwuoR)
-
 - [Listas de reproducción de YouTube](https://www.youtube.com/@alanyahirjuarezrubio/playlists)
 
 ### Platataformas de cursos
