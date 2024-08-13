@@ -16,3 +16,6 @@
 [submodule "agenda-icom"]
 	path = agenda-icom
 	url = https://github.com/MrDonkey08/agenda-icom
+[submodule "6to/6to"]
+	path = 6to
+	url = git@github.com:MrDonkey08/6to.git
