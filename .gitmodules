@@ -13,9 +13,9 @@
 [submodule "5to"]
 	path = 5to
 	url = https://github.com/MrDonkey08/5to
+[submodule "6to"]
+	path = 6to
+	url = https://github.com/MrDonkey08/6to.git
 [submodule "agenda-icom"]
 	path = agenda-icom
 	url = https://github.com/MrDonkey08/agenda-icom
-[submodule "6to/6to"]
-	path = 6to
-	url = git@github.com:MrDonkey08/6to.git
