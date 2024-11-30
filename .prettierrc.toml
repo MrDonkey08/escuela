@@ -1,0 +1,26 @@
+# Identation
+vueIndentScriptAndStyle = true
+
+# Wrapping
+printWidth = 80
+proseWrap = "always"
+singleAttributePerLine = false
+htmlWhitespaceSensitivity = "css"
+embeddedLanguageFormatting = "auto"
+
+# Formating
+arrowParens = "always"
+bracketSpacing = true
+bracketSameLine = false
+#embeddedSingleQuote = true
+semi = false
+singleQuote = false
+#singleLineLinkTags = false
+trailingComma = "es5"
+
+[[overrides]]
+files = "*.md"
+
+[overrides.options]
+printWidth = 80
+tabWidth = 2

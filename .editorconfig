@@ -1,0 +1,30 @@
+root = true
+
+# Unix-style newlines with a newline ending every file
+[*]
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+# Matches multiple files with brace expansion notation
+# Set default charset
+[*.{js, py}]
+charset = utf-8
+
+# 4 space indentation
+[*.{css, py, sass, rs}]
+indent_style = space
+indent_size = 4
+
+# 2 space indentation
+[*.{htm, html, json, lua, md, ruby, sql, toml, yaml, yml, xml}]
+indent_style = space
+indent_size = 2
+
+# Tab indentation
+[Makefile]
+indent_style = tab
+
+# Tab indentation
+[*.{bib, bat, bash, c, cpp, cs go, java, js, php, sh, sql, tex, ts, zsh}]
+indent_style = tab

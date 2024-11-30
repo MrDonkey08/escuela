@@ -69,8 +69,7 @@ mí en la carrera de Ingeniería de Cómputo
 #### Software
 
 - [Linux Chad](https://www.youtube.com/@LinuxChad/videos)
-- [Oficina de Software Libre Universidad de
-  Granada](https://www.youtube.com/@oslugr)
+- [Oficina de Software Libre Universidad de Granada](https://www.youtube.com/@oslugr)
 
 #### Hardware
 
@@ -93,8 +92,7 @@ mí en la carrera de Ingeniería de Cómputo
 #### Electrónica
 
 - [Electrónica FP](https://www.youtube.com/c/Electr%C3%B3nicaFP)
-- [Mentalidad de
-  Ingeniería](https://www.youtube.com/@MentalidadDeIngenieria/videos)
+- [Mentalidad de Ingeniería](https://www.youtube.com/@MentalidadDeIngenieria/videos)
 - [Mundo Electrónica](https://www.youtube.com/@mundo_electronica)
 - [Virtual Brain](https://www.youtube.com/@Virtual_brai|n)
 
